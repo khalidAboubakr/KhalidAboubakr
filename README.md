@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Vodafone_2017_logo.svg" alt="_VOIS" width="120"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/5/56/Vodafone_2017_logo.svg](https://scontent.fcai19-4.fna.fbcdn.net/v/t1.6435-9/131424876_113218430640268_3987783210279729224_n.png?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=7Qx-dV6c_F4Q7kNvwGHMleD&_nc_oc=Adm7IPAUi39XXwjmgpyO6sqIlwsuvrQrltCVC3QDKoCEtqqqziCxXGwmVW1V50-Wpwo&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=D7wHmqf1Bgzuzxt7FPkAPQ&oh=00_AfYvTAOwidY-AoXnX1KUPm-W3Q8gufPk_8VXzjYvwWErZQ&oe=68ED8F0A)" alt="_VOIS" width="120"/>
 </p>
 
 ---
