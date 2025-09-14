@@ -11,18 +11,32 @@
 
 ---
 
-- 🔭 I’m currently working on [Traffic Prosecution Control System](https://ppo.gov.eg)  
-- 🌱 I’m currently learning **React**  
-- 👯 I was honored to implement [Egyptian Tax Authority](https://eta.gov.eg/ar/)  
-- 🤝 One of the biggest projects: **Orange Cash**  
-- 💬 Ask me about **C# , OOP , ASP.NET Core, Software Architecture**  
-- 📫 Reach me at **khalid.aboubakr@outlook.com**  
+### 🚀 Current Role
+- 🔭 Currently working on **Vodafone Portal** at _VOIS  
+
+---
+
+### 💼 Previous Major Projects
+- ✅ [Traffic Prosecution Control System](https://ppo.gov.eg)  
+- ✅ [Egyptian Tax Authority](https://eta.gov.eg/ar/)  
+- ✅ **Orange Cash** (Mobile Wallet)  
+
+---
+
+### 🛠️ Tech & Expertise
+- 💬 Ask me about **C#, OOP, ASP.NET Core, Software Architecture**  
+- 🌱 Currently learning **React**  
+
+---
+
+### 📫 Contact
+- 📧 Reach me at **khalid.aboubakr@outlook.com**  
 - 📄 Know more about my experiences [My Resume](https://drive.google.com/file/d/1PR3K0qiVR41mIVGU4mUj7RrmSyyE-4mw/view?usp=sharing)  
 - ⚡ Fun fact: **I think I am funny 😄**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/khalid-aboubakr" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid-aboubakr" height="30" width="40" />
